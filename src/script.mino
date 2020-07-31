@@ -1,0 +1,3 @@
+lib unity;
+
+class MyScript extends MonoBehaviour;

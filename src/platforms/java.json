@@ -1,0 +1,6 @@
+{
+    "import_keyword": "dyalect",
+    "use_keyword": "import",
+    "extends_keyword": "extends",
+    "implements_keyword": "impls"
+}
