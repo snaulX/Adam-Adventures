@@ -1,3 +1,5 @@
-lib unity;
+//lib unity;
+
+include lib/UnityEngine.dll;
 
 class MyScript extends MonoBehaviour;
